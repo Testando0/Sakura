@@ -27,35 +27,35 @@ return `
 ╎
 ╎  ᶫᵒᵛᵉᵧₒᵤ ᶫᵒᵛᵉᵧₒᵤ ᶫᵒᵛᵉᵧₒᵤ
 ╭︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╮︎
-╎     ☀️×>𝐌𝐎𝐃𝐒<×☀️
+╎     🍾×>𝐌𝐎𝐃𝐒<×🍾
 ╰︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╯︎
-╎⚘ۣۜۜ͜͡✨ ${prefix}viraraudio "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}videolento "Marcar"
-╎⚘ۜۜ͜͡✨ ${prefix}videorapido "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Videocontrario "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Audiolento "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Audiorapido "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Grave "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Grave2 "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}robot "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Esquilo "Marcar"
-╎⚘ۣۣۜۜۜۜ͜͜͡͡✨ ${prefix}Estourar "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}estourar2 "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Bass "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Bass2 "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Bass3 "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}Vozmenino "Marcar"     
-╎⚘ۣۜۜ͜͡✨ ${prefix}tupai "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}reverse "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}fat "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}deep "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}earrape "Marcar"
-╎⚘ۣۜۜ͜͡✨ ${prefix}falar pt "txt"
-╎⚘ۣۜۜ͜͡✨ ${prefix}faustao "txt"
-╎⚘ۣۜۜ͜͡✨ ${prefix}chapolin "txt"
-╎⚘ۣۜۜ͜͡✨ ${prefix}scheyot "txt"
-╎⚘ۣۜۜ͜͡✨ ${prefix}eminem "txt"
-╎⚘ۣۜۜ͜͡✨ ${prefix}negobam "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}viraraudio "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}videolento "Marcar"
+╎⚘ۜۜ͜͡☀️ ${prefix}videorapido "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Videocontrario "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Audiolento "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Audiorapido "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Grave "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Grave2 "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}robot "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Esquilo "Marcar"
+╎⚘ۣۣۜۜۜۜ͜͜͡͡☀️ ${prefix}Estourar "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}estourar2 "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Bass "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Bass2 "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Bass3 "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}Vozmenino "Marcar"     
+╎⚘ۣۜۜ͜͡☀️ ${prefix}tupai "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}reverse "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}fat "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}deep "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}earrape "Marcar"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}falar pt "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}faustao "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}chapolin "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}scheyot "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}eminem "txt"
+╎⚘ۣۜۜ͜͡☀️ ${prefix}negobam "txt"
 ┗│⚘♬○♩●✧♩⚘♬●♩✧●♪○♬⚘                          
 ╰︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╯︎
 ╎
@@ -63,19 +63,19 @@ return `
 ╭︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╮︎
 ╎   ⛈️×>𝐄𝐅𝐄𝐈𝐓𝐎𝐒<×⛈️
 ╰︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╯︎
-╎❃ۣۜۜ͜͡🧩 ${prefix}Legenda "marcar"       
-╎❃ۣۜۜ͜͡🧩 ${prefix}Procurado "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Hitler "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Preso "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Lixo "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Deletef "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Morto "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Lgbt "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}Merda "marcar"     
-╎❃ۣۜۜ͜͡🧩 ${prefix}borrar "marcar" 
-╎❃ۣۜۜ͜͡🧩 ${prefix}noturno "marcar
-╎❃ۣۜۜ͜͡🧩 ${prefix}wasted "marcar"
-╎❃ۣۜۜ͜͡🧩 ${prefix}trigger "marcar
+╎❃ۣۜۜ͜͡🎨 ${prefix}Legenda "marcar"       
+╎❃ۣۜۜ͜͡🎨 ${prefix}Procurado "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Hitler "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Preso "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Lixo "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Deletef "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Morto "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Lgbt "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}Merda "marcar"     
+╎❃ۣۜۜ͜͡🎨 ${prefix}borrar "marcar" 
+╎❃ۣۜۜ͜͡🎨 ${prefix}noturno "marcar
+╎❃ۣۜۜ͜͡🎨 ${prefix}wasted "marcar"
+╎❃ۣۜۜ͜͡🎨 ${prefix}trigger "marcar
 ┗│
 ╰︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╯︎
 ╎
@@ -134,6 +134,11 @@ return `
 ╎✰ۣۜۜ͜͡🎠 ${prefix}perfil  
 ╎✰ۣۜۜ͜͡🎠 ${prefix}fixapessoal
 ╎✰ۣۜۜ͜͡🎠 ${prefix}nick 
+╎✰ۣۜۜ͜͡🎠 ${prefix}loli
+╎✰ۣۜۜ͜͡🎠 ${prefix}beijo
+╎✰ۣۜۜ͜͡🎠 ${prefix}megumin
+╎✰ۣۜۜ͜͡🎠 ${prefix}waifu
+╎✰ۣۜۜ͜͡🎠 ${prefix}neko
 ╎✰ۣۜۜ͜͡🎠 ${prefix}appsvip
 ╎✰ۣۜۜ͜͡🎠 ${prefix}netflix
 ╎✰ۣۜۜ͜͡🎠 ${prefix}level
@@ -490,7 +495,7 @@ return `
 adm(prefix, pushname, NomeDoBot) {
 return ` 
 ╭︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╮︎
-╎ 🥎×𝐌𝐄𝐍𝐔-𝐀𝐃𝐌×🥎
+╎ 🌞×𝐌𝐄𝐍𝐔-𝐀𝐃𝐌×🌞
 ╰︎⊰๑ᨐ✶乡»̶❁︎«̶乡✶ᨐ๑⊱╯︎
 ╎✧ۣۜۜ͜͡🧧 ${prefix}ban 
 ╎✧ۣۜۜ͜͡🧧 ${prefix}kick 

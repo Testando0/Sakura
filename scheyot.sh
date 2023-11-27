@@ -5,7 +5,7 @@ do
 echo "${GREEN}
 
 ⸺͟͞ꪶOLÁ  SOU A SAKURA-V7 ^-^
-(⁠｡⁠•̀ᴗ⁠-⁠)✧ INICIANDO MEUS SISTEMAS😈${WHITE}"
+(⁠｡⁠•̀ᴗ⁠-⁠)✧ INICIANDO MEUS SISTEMAS☀️${WHITE}"
 node connect.js
 sleep 1
 done
