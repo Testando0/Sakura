@@ -1,11 +1,11 @@
 {
   "name": "sakura",
-  "version": "7.0.0",
+  "version": "7.5.0",
   "description": "Sakura-Bot, Multi-Conexões, funcionamento mais rápido, e hospedado na heroku ou em outro servidor o seu celular funcionará sem internet.",
   "main": "index.js",
   "scripts": {
     "test": "node connect.js",
-    "start": "sh scheyot.sh"
+    "start": "sh scheyot.sh bronxys"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@hapi/boom": "^9.1.4",
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
     "aki-api": "^6.0.8",
     "async": "^3.2.3",
     "awesome-phonenumber": "^2.69.0",
@@ -66,6 +66,7 @@
     "protobufs": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
     "qs": "^6.10.3",
+    "readline": "^1.3.0",
     "remove.bg": "^1.3.0",
     "request": "^2.88.2",
     "spinnies": "^0.5.1",

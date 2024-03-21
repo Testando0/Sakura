@@ -1,2 +1,2 @@
 rm -rf qr-code
-sh scheyot.sh
+sh scheyot.sh bronxys
